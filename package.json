@@ -1,0 +1,24 @@
+{
+  "name": "@hamgom95/parcel-plugin-mustache",
+  "version": "0.1.0",
+  "description": "mustache template prerender plugin",
+  "main": "index.js",
+  "keywords": [
+    "mustache",
+    "parcel"
+  ],
+  "scripts": {},
+  "author": {
+    "name": "Kevin Thomas",
+    "email": "hamgom95@gmail.com"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.1"
+  },
+  "files": [
+    "/index.js",
+    "/MustacheAsset.js"
+  ],
+  "license": "ISC",
+  "dependencies": {}
+}
