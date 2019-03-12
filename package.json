@@ -12,7 +12,7 @@
     "name": "Kevin Thomas",
     "email": "hamgom95@gmail.com"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "parcel-bundler": "^1.12.1"
   },
   "files": [
